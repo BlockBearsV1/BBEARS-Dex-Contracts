@@ -25,6 +25,8 @@
     "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "@openzeppelin/contracts-upgradeable": "^4.8.2",
-    "@thirdweb-dev/contracts": "^3"
+    "@thirdweb-dev/contracts": "^3",
+    "@thirdweb-dev/sdk": "^3.10.27",
+    "ethers": "^5.7.2"
   }
 }
