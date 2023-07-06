@@ -1,7 +1,0 @@
-run = "npx thirdweb build"
-
-[nix]
-channel = "stable-22_11"
-
-[deployment]
-run = ["sh", "-c", "npx thirdweb build"]
