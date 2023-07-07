@@ -2,7 +2,7 @@
 module.exports = {
   networks: {
     hardhat: {
-      chainId: 1337,
+      chainId: 56,
     },
   },
   solidity: {
